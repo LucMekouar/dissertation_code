@@ -1,7 +1,7 @@
 # dissertation_code
 
 ## Description
-This repository accompanies my disseration at the University of Warwick, submitted for the degree of MSc in Statistics with Probability (2026). The dissertation studied macroscopic behavious (hydrodynamic limit) of One-Sided Ballistic Deposition (BD#) for seed and smooth initial profile; and was supervised by Prof Giuseppe Cannizzaro.
+This repository accompanies my disseration at the University of Warwick, submitted for the degree of MSc in Statistics with Probability (2026). The dissertation studied the macroscopic behaviour (hydrodynamic limit) of One-Sided Ballistic Deposition (BD#) for seed initial configuration and for smooth initial profile; it was supervised by Prof Giuseppe Cannizzaro.
 
 
 ## Files
